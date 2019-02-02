@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2494-ACCD
+
+ Directory of C:\Users\Vishal\Desktop\MyProject
+
+02/02/2019  06:16 PM    <DIR>          .
+02/02/2019  06:16 PM    <DIR>          ..
+02/02/2019  06:14 PM    <DIR>          .git
+02/02/2019  06:16 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  189,997,064,192 bytes free
